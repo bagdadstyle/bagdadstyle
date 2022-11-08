@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mauricio Romano</h1>
 <h3 align="center">A passionate Full Stack Developer from Argentina</h3>
 
-- About me **My name is Mauricio, I am a backend oriented Full-Stack programmer. From an early age my interest in the world of technology began. After a few years working in customer service, I decided to go into the world of programming. I entered the SoyHenry bootcamp where I managed to strengthen both my technical skills and my soft skills. My hobbies: Piano, movies, video games, nature and coding.**
+- 💬 About me **My name is Mauricio, I am a backend oriented Full-Stack programmer. From an early age my interest in the world of technology began. After a few years working in customer service, I decided to go into the world of programming. I entered the SoyHenry bootcamp where I managed to strengthen both my technical skills and my soft skills. My hobbies: Piano, movies, video games, nature and coding.**
+
+- 📫 How to reach me **mau20410@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
