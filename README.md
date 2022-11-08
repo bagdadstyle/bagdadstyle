@@ -7,15 +7,9 @@
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-**About Me!**
-
-- 👨🏽‍💻 I’m currently working as a TSA at Nixxe Solutions.
-- 🌱 I’m currently exploring Python with a big interest in Web Scraping and Data Visualization. 
-- 🤔 My interests are web-automation, video processing and developing some useful and cool stuff xD
-- 💼 I’m pursuing a Bachelor's degree in Computer Science.
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [zamran.butt.1@gmail.com](mailto:zamran.butt.1@gmail.com).
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing) to get more info.
+ 💬 **About me** 
+  
+  **My name is Mauricio, I am a backend oriented Full-Stack programmer. From an early age my interest in the world of technology began. After a few years working in customer service, I decided to go into the world of programming. I entered the SoyHenry bootcamp where I managed to strengthen both my technical skills and my soft skills. My hobbies: Piano, movies, video games, nature and coding.**
 
 
 **Languages and Tools:**  
