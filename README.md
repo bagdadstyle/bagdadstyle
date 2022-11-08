@@ -8,7 +8,7 @@
   <img align="center"  alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
- ##💬 About me 
+ ## 💬 About me 
   
   My name is Mauricio, I am a backend oriented Full-Stack programmer. From an early age my interest in the world of technology began. After a few years working in customer service, I decided to go into the world of programming. I entered the SoyHenry bootcamp where I managed to strengthen both my technical skills and my soft skills. My hobbies: Piano, movies, video games, nature and coding.
 
