@@ -5,7 +5,7 @@
 <br />
 <br />
 
-  <img align="right" margin="10" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img align="right" margin-left="100" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
  **💬 About me** 
