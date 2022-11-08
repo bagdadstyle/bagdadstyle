@@ -16,4 +16,4 @@
 ## **🛠️Languages and Tools:**  
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,react,redux,express,nodejs,mongo,postgres,git,webpack,vite,firebase,aws)](https://skillicons.dev)
+[![My Skills](<img src=https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,react,redux,express,nodejs,mongo,postgres,git,webpack,vite,firebase,aws" />)
