@@ -25,7 +25,7 @@
 <br />
 
 <p dir="auto">
-    <a href="https://mau20410@gmail.com" rel="nofollow">
+    <a href="mailto:mau20410@gmail.com" rel="nofollow">
       <img src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg" style="max-width: 100%;" align="middle">
       mau20410@gmail.com
     </a>    
