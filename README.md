@@ -16,4 +16,4 @@
 ## **🛠️Languages and Tools:**  
 
 
-<img height="100" src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,react,redux" />
+<img height="80" src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,react,redux" />
