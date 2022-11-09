@@ -24,16 +24,15 @@
 
 <br />
 <br />
-<img src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg" style="max-width: 100%;" align="middle">: <a href="mailto:mau20410@gmail.com">mau20410@gmail.com</a>
 
 <p dir="auto">
-    <a href="https://marcoslaurens25@gmail.com" rel="nofollow">
+    <a href="https://mau20410@gmail.com" rel="nofollow">
       <img src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg" style="max-width: 100%;" align="middle">
-      marcoslaurens25@gmail.com
+      mau20410@gmail.com
     </a>    
     <br>
-    <a href="https://www.linkedin.com/in/marcos-laurens/" rel="nofollow">
+    <a href="https://www.linkedin.com/in/mauricio-romano/" rel="nofollow">
       <img src="https://user-images.githubusercontent.com/76783198/182481396-19c89e94-f3ba-4e33-9df4-f5b7a094cf8f.svg" style="max-width: 100%;" align="middle">
-      Marcos Laurens
+      Mauricio Romano
     </a>
 </p>
