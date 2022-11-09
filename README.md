@@ -14,6 +14,8 @@
 
 
 ## **🛠️ Languages and Tools:**  
+<br />
+<br />
 
 
 <img height="80" src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,react,redux" />
@@ -21,4 +23,7 @@
 <img height="80" src="https://skillicons.dev/icons?i=python,firebase,aws,git,heroku,vercel,vscode" />
 
 ## **📫 Contact me!**
+
+<br />
+<br />
 
