@@ -30,7 +30,7 @@
       mau20410@gmail.com
     </a>    
     <br>
-    <a href="https://www.linkedin.com/in/mauricio-romano/" rel="nofollow">
+    <a href="https://www.linkedin.com/in/mauricio-romano/">
       <img src="https://user-images.githubusercontent.com/76783198/182481396-19c89e94-f3ba-4e33-9df4-f5b7a094cf8f.svg" style="max-width: 100%;" align="middle">
       Mauricio Romano
     </a>
