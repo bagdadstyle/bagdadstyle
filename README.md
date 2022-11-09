@@ -17,4 +17,6 @@
 
 
 <img height="80" src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,react,redux" />
-<img align="right" height="80" src="https://skillicons.dev/icons?i=express,nodejs,mongo,postgres,git,webpack,vite,firebase,aws" />
+<img align="right" height="80" src="https://skillicons.dev/icons?i=express,nodejs,mongo,postgres,git,webpack,vite" />
+<img align="right" height="80" src="https://skillicons.dev/icons?i=firebase,aws />
+
