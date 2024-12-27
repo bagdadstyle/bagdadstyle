@@ -18,7 +18,7 @@
 
 <img height="80" src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,react,redux" />
 <img height="80" src="https://skillicons.dev/icons?i=express,nodejs,mongo,postgres,git,webpack,vite" />
-<img height="80" src="https://skillicons.dev/icons?i=python,firebase,aws,heroku,vercel,vscode" />
+<img height="80" src="https://skillicons.dev/icons?i=python,firebase,aws,heroku,vercel" />
 
 ## **📫 Contact me!**
 
