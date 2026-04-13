@@ -10,8 +10,20 @@
 
  ## **💬 About me** 
   
-  My name is Mauricio, I am a backend oriented Full-Stack programmer. From an early age my interest in the world of technology began. After a few years working in customer service, I decided to go into the world of programming. I entered the SoyHenry bootcamp where I managed to strengthen both my technical skills and my soft skills. My hobbies: Piano, movies, video games, nature and coding.
+  Hi, I'm Mauricio — a backend-oriented Full-Stack developer with 4 years of hands-on experience building software for the tourism industry.
 
+  What started as a passion pivot from customer service turned into a career I'm genuinely proud of. That background still shapes how I think: I build systems with the end user in mind, because I've been that
+  person on the other side.
+
+  Over the last four years I've designed and maintained everything from reservation engines and booking pipelines to integrations with third-party travel APIs — learning a lot about reliability, data
+  consistency, and what it really means to ship software that people depend on daily.
+
+  What I work with:
+  - Backend: Node.js, PostgreSQL, REST & third-party API integrations
+  - Frontend: React / Next.js
+  - Tooling: Git, Docker, CI/CD pipelines
+
+  Always looking to connect with people building interesting things.
 
 ## **🛠️ Languages and Tools:**  
 <br />
